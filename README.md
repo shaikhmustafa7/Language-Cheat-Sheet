@@ -1,6 +1,9 @@
 # Language-Cheat-Sheet
 Language Cheat Sheet Generator is a multilingual phrasebook tool designed for travelers. It dynamically generates concise, categorized cheat sheets based on your travel type—whether you're traveling for business, leisure, study, adventure, cultural experiences, or with family.
 
+## Open in Browser :
+- Language-Cheat-Sheet : https://language-cheat-sheet.vercel.app
+
 ## ✨ Features
 - 🧳 Travel-type based phrase selection (Business, Vacation, Study, Adventure, Family, Cultural)
 - 🌐 Supports multiple target languages
@@ -25,3 +28,6 @@ Language Cheat Sheet Generator is a multilingual phrasebook tool designed for tr
 
 ## Start the development server:
 - npm run dev
+  
+## Clone the repository :
+- Git Clone : https://github.com/shaikhmustafa7/Language-Cheat-Sheet
